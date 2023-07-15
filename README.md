@@ -1,3 +1,3 @@
-# Easy TODO APP using React
+# Easy TODO APP made using React and Django REST
 
-App made for learning purposes
+App was made for learning purposes
